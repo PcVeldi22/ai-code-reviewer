@@ -53,7 +53,7 @@
 >      
 >       - ```bash
 >         # Clone the repository
->         git clone https://github.com/Chanduveldi2211/ai-code-reviewer.git
+>         git clone https://github.com/Pcveldi22/ai-code-reviewer.git
 >         cd ai-code-reviewer
 >
 >         # Configure environment variables
@@ -81,7 +81,7 @@
 >     steps:
 >       - uses: actions/checkout@v4
 >       - name: Run AI Code Review
->         uses: Chanduveldi2211/ai-code-reviewer@v1
+>         uses: Pcveldi22/ai-code-reviewer@v1
 >         with:
 >           openai-api-key: ${{ secrets.OPENAI_API_KEY }}
 >           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -152,4 +152,4 @@
 >            
 >             8. ---
 >
-> <p align="center">Made with ❤️ by <a href="https://github.com/Chanduveldi2211">Veldi Purna Chandu</a>a></p>p>
+> <p align="center">Made with ❤️ by <a href="https://github.com/Pcveldi22">Pc Veldi</a>a></p>p>
